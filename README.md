@@ -59,7 +59,7 @@ titanic-eda/
 ## How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/titanic-eda.git
+   git clone https://github.com/Srusti-26/titanic-eda
    cd titanic-eda
    ```
 
@@ -90,7 +90,8 @@ titanic-eda/
 * Passengers traveling **with family** had better survival chances.
 
 ---
-
+**Note:** The test.csv and gender_submission.csv files are part of the Kaggle Titanic dataset but were not used in this EDA, as survival labels are missing in test.csv. They are typically used for model prediction and Kaggle competition submissions.
+---
 ## Author
 
 **SRUSTI**
