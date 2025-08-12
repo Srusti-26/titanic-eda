@@ -11,7 +11,7 @@ The analysis covers:
 - Key insights and recommendations
 
 ---
-
+```text
 ## Repository Structure
 
 titanic-eda/
@@ -31,7 +31,7 @@ titanic-eda/
 │
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## Key Visuals
